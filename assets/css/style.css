@@ -919,7 +919,6 @@ section {
   background: #fff;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
   background-color: transparent;
-  filter: invert(1) grayscale(9) contrast(9); 
   
 }
 
@@ -1951,7 +1950,7 @@ section {
   text-decoration: none;
 }
 
-#head-gear {
+/* #head-gear { 
 background-image: url(/Innovate-safety/helmet.jpg);
 border-style: solid;
 border-width: 5px;
@@ -2003,4 +2002,4 @@ border-width: 5px;
 border-color: #ffffff;
 background-position: center;
 background-size: cover;
-}
+} */
