@@ -1951,7 +1951,7 @@ section {
 }
 
 #head-gear { 
-background-image: url(/Innovate-safety/helmet.jpg);
+background-image: url(/Innovate-safety/assets/img/helmet.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
@@ -1960,7 +1960,7 @@ background-size: cover;
 }
 
 #disposable {
-background-image: url(/Innovate-safety/Disposable\ Wear.jpg);
+background-image: url(/Innovate-safety/assets/img/Disposable-wear.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
@@ -1969,7 +1969,7 @@ background-size: cover;
 }
 
 #winter {
-background-image: url(/Innovate-safety/winter-wear.jpg);
+background-image: url(/Innovate-safety/assets/img/winter-wear.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
@@ -1978,7 +1978,7 @@ background-size: cover;
 }
 
 #hand {
-background-image: url(/Innovate-safety/hand-safety.jpg);
+background-image: url(/Innovate-safety/assets/img/hand-safety.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
@@ -1987,7 +1987,7 @@ background-size: cover;
 }
 
 #foot {
-background-image: url(/Innovate-safety/foot-wear.jpg);
+background-image: url(/Innovate-safety/assets/img/foot-wear.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
@@ -1996,7 +1996,7 @@ background-size: cover;
 }
 
 #work {
-background-image: url(/Innovate-safety/Work\ wear.jpg);
+background-image: url(/Innovate-safety/assets/img/Work-wear.jpg);
 border-style: solid;
 border-width: 5px;
 border-color: #ffffff;
